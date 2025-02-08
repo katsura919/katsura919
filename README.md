@@ -17,5 +17,5 @@ I am currently a student from the Philippines.
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=katsuragik919&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=katsura919&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
