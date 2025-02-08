@@ -1,12 +1,12 @@
 # 👋 About Me [![](https://visitcount.itsvg.in/api?id=yourusername&icon=0&color=3)](https://visitcount.itsvg.in)
-🎓 Aspiring Full-Stack Developer from the Philippines
-💡 Passionate about building apps & exploring new technologies
-⚡ Constantly learning & working on exciting side projects
+- 🎓 Aspiring Full-Stack Developer from the Philippines
+- 💡 Passionate about building apps & exploring new technologies
+- ⚡ Constantly learning & working on exciting side projects
 
 🌱 Currently Exploring
-🔹 Advanced React Native & Mobile Development
-🔹 Backend with Node.js + Express + MongoDB
-🔹 Cloud Services & API Development
+-🔹 Advanced React Native & Mobile Development
+-🔹 Backend with Node.js + Express + MongoDB
+-🔹 Cloud Services & API Development
 
 ## 🚀 Languages & Tools
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
