@@ -1,4 +1,4 @@
-# 👋 About Me![Profile Views](https://komarev.com/ghpvc/?username=katsura919&color=blue)
+# 👋 About Me!
 - 🎓 Aspiring Full-Stack Developer from the Philippines
 - 💡 Passionate about building apps & exploring new technologies
 - ⚡ Constantly learning & working on exciting side projects
@@ -23,4 +23,5 @@
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=katsura919&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[Profile Views](https://komarev.com/ghpvc/?username=katsura919&color=blue)
 
