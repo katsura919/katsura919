@@ -4,7 +4,6 @@
 - ⚡ Constantly learning & working on exciting side projects
 
 🌱 Currently Exploring
-- Advanced React Native & Mobile Development
 - Backend with Node.js + Express + MongoDB
 - Cloud Services & API Development
 
