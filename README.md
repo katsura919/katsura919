@@ -1,5 +1,5 @@
 # 👋 About Me  ![Profile Views](https://komarev.com/ghpvc/?username=katsura919&color=blue)
-- 🎓 Aspiring Full-Stack Developer from the Philippines
+- 🎓 Full-Stack Developer from the Philippines
 - 💡 Passionate about building apps & exploring new technologies
 - ⚡ Constantly learning & working on exciting side projects
 
