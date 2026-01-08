@@ -4,7 +4,7 @@
 - ⚡ Constantly learning & working on exciting side projects
 
 🌱 Currently Exploring
-- Backend with Node.js + Express + MongoDB
+- Backend with Node.js + Fastify + MongoDB
 - Cloud Services & API Development
 
 ## 🚀 Languages & Tools
