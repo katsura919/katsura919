@@ -1,6 +1,6 @@
 # 👋 About Me  ![Profile Views](https://komarev.com/ghpvc/?username=katsura919&color=blue)
 - 🎓 Full-Stack Developer from the Philippines
-- ⚡ Constantly learning & working on exciting side projects
+- ⚡ Constantly learning & working on exciting projects
 
 🌱 Currently Exploring
 - Backend with Node.js + Fastify + MongoDB
